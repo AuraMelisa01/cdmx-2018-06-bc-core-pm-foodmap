@@ -1,0 +1,55 @@
+
+.txt-footer {
+  text-align: center;
+}
+
+.logo {
+  width: 800px;
+  height: 300px;
+  display: flex;
+}
+
+.logo2 {
+  width: 200px;
+  height: 100px;
+}
+
+.row-row_margen {
+  width: 300px;
+  height: 300px;
+}
+
+.img-comida1 {
+  width: 1500px;
+  height: 300px;
+  display: flex;
+  border-radius: 29px;
+  filter: 0;
+}
+
+.img-comida1:hover {
+  filter: sepia(60%);
+}
+
+.row-color {
+  background:pink;
+}
+
+hr {
+  height:2px;
+  background: #D5D8DC;
+  border-radius: 12px;
+  }
+
+.icon-food {
+  color:#C0392B;
+}
+
+.text {
+  font-family: 'Merienda', cursive;
+}
+
+.input-field input[type=text].valid {
+     border-bottom: #C0392B;
+     box-shadow: #C0392B;
+   }
