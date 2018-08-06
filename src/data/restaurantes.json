@@ -1,0 +1,27 @@
+const restaurantes =
+{"mexicana":[
+    {"nombre":"Los Huaraches de Juan",
+     "direccion":"Av. Lopez Mateos 182, Jardines de Atizapan, Atizapan Centro, 52978 Cd López Mateos, Méx.",
+     "telefono":"01 55 5077 2844",
+     "horario":"8:00 am - 5:30 pm (L - V)",
+     "web":"http://www.loshuarachesdejuan.com.mx/"},
+    {"nombre":"La Mexicana",
+     "direccion":"Cto. Circunvalacion Pte. 33, Cd. Satélite, 53100 Naucalpan de Juárez, Méx.",
+     "telefono":"01 55 5562 2885",
+     "horario":"8:00 am - 6:00 pm (M - D)",
+     "web":"http://www.loshuarachesdejuan.com.mx/"},
+
+]},
+{"vegetariana":[
+    {"nombre":"El Mvégano",
+     "direccion":"Calle Jalisco 214, Hab Jacarandas, 54050 Tlalnepantla, Méx.",
+     "telefono":"01 55 6721 8439",
+     "horario":"11:00 am - 4:00 pm (M - S)",
+     "web":"http://www.elmuegano.com.mx/"},
+    {"nombre":"Forever Polanco",
+     "direccion":"Alejandro Dumas 16, Polanco, Polanco IV Secc, 11550 Ciudad de México, CDMX",
+     "telefono":"01 55 5280 7375",
+     "horario":"9:00 am - 11:00 pm (L - S)",
+     "web":""},
+
+]};
