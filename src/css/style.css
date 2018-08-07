@@ -1,17 +1,18 @@
 
-.txt-footer {
-  text-align: center;
-}
 
 .logo {
-  width: 800px;
+  width: 500px;
   height: 300px;
-  display: flex;
+  /* margin-top: -195px;
+  margin-left: -290px;
+  left: 50%;
+  top: 50%;
+  position: absolute; */
 }
 
 .logo2 {
-  width: 200px;
-  height: 100px;
+  width: 250px;
+  height: 150px;
 }
 
 .row-row_margen {
@@ -47,9 +48,15 @@ hr {
 
 .text {
   font-family: 'Merienda', cursive;
+  font-size: 50px;;
 }
 
-.input-field input[type=text].valid {
+.img-rest {
+  width: 240px;
+  height: 150px;
+}
+
+/* .input-field input[type=text].valid {
      border-bottom: #C0392B;
      box-shadow: #C0392B;
-   }
+} */

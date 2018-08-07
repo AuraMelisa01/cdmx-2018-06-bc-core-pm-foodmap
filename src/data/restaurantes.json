@@ -22,6 +22,6 @@ const restaurantes =
      "direccion":"Alejandro Dumas 16, Polanco, Polanco IV Secc, 11550 Ciudad de México, CDMX",
      "telefono":"01 55 5280 7375",
      "horario":"9:00 am - 11:00 pm (L - S)",
-     "web":""},
+     "web":"https://www.forevervegano.com/"},
 
 ]};
